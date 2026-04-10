@@ -1,16 +1,13 @@
-# React + Vite
+# 🎮 Game Library Project
+A modern gaming library web application built with React and Tailwind CSS.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## ✨ Key Features
+- **Data Fetching:** Real-time data processing from local JSON/REST API.
+- **Dynamic Routing:** Clean URLs using game titles for better SEO.
+- **Responsive Design:** Optimized for both Desktop and Mobile devices.
+- **UI/UX:** Gaming-inspired Dark Mode with Cyan neon accents (#00D3F3).
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+- **Frontend:** React.js, Vite
+- **Styling:** Tailwind CSS
+- **Library:** React Router DOM
