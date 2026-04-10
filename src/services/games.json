@@ -1,0 +1,34 @@
+[
+  {
+    "id": 540,
+    "title": "Overwatch 2",
+    "thumbnail": "https://www.freetogame.com/g/540/thumbnail.jpg",
+    "short_description": "A free-to-play, team-based action game set in the optimistic future.",
+    "genre": "Shooter",
+    "platform": "PC (Windows)"
+  },
+  {
+    "id": 521,
+    "title": "Diablo Immortal",
+    "thumbnail": "https://www.freetogame.com/g/521/thumbnail.jpg",
+    "short_description": "Built for mobile and also released on PC, Diablo Immortal is a brand-new game in the series.",
+    "genre": "MMORPG",
+    "platform": "PC (Windows)"
+  },
+  {
+    "id": 517,
+    "title": "Lost Ark",
+    "thumbnail": "https://www.freetogame.com/g/517/thumbnail.jpg",
+    "short_description": "Smilegate RPG's mmoarpg Lost Ark has arrived! Explore the world of Arkesia.",
+    "genre": "ARPG",
+    "platform": "PC (Windows)"
+  },
+  {
+    "id": 516,
+    "title": "PUBG: BATTLEGROUNDS",
+    "thumbnail": "https://www.freetogame.com/g/516/thumbnail.jpg",
+    "short_description": "Get ready to loot, move, and survive in the ultimate battle royale experience.",
+    "genre": "Battle Royale",
+    "platform": "PC (Windows)"
+  }
+]
